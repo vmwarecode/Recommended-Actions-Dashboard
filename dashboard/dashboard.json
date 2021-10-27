@@ -1,0 +1,47 @@
+{
+   "dashboards": [{
+      "autoswitchEnabled": false,
+      "columnCount": 1,
+      "columnProportion": "1-1",
+      "creationTime": 1635329648202,
+      "dashboardNavigations": {},
+      "description": "",
+      "disabled": false,
+      "gridsterMaxColumns": 12,
+      "hidden": false,
+      "homeTab": false,
+      "id": "0be186ad-08fc-4079-b051-fd375578a5ff",
+      "importAttempts": 0,
+      "importComplete": true,
+      "lastUpdateTime": 1635331109537,
+      "lastUpdateUserId": "1127b3fb-055b-39d6-bb11-20b31b050a54",
+      "locked": false,
+      "name": "Recommended Actions",
+      "rank": 0,
+      "shared": false,
+      "states": [],
+      "temporary": false,
+      "userId": "1127b3fb-055b-39d6-bb11-20b31b050a54",
+      "widgetInteractions": [],
+      "widgets": [{
+         "collapsed": false,
+         "config": {},
+         "gridsterCoords": {
+            "h": 13,
+            "w": 12,
+            "x": 1,
+            "y": 1
+         },
+         "height": 722,
+         "id": "f244772a-fb5d-4eb1-9319-62937c19d611",
+         "states": [{
+            "key": "permSelectedResourceKind_widget_0be186ad-08fc-4079-b051-fd375578a5ff_f244772a-fb5d-4eb1-9319-62937c19d611",
+            "value": "s%3A002006VMWAREVMwareAdapter%20Instance"
+         }],
+         "title": "Recommended Actions",
+         "type": "RecommendedActions"
+      }]
+   }],
+   "entries": {},
+   "uuid": "788fccae-b620-49bd-865e-a8fc03f52742"
+}
